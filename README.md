@@ -18,8 +18,9 @@ The codes require the following packages to function:
 - [Numpy](http://www.numpy.org/) >= 1.16
 - [scipy](https://www.scipy.org/) >=1.5
 - [matplotlib](https://matplotlib.org/) >=3.3.4
-- [gmsh] (https://gmsh.info/) >=4.15.0
-- [fenicsx] (https://fenicsproject.org/download/) >= 0.9
+- [gmsh](https://gmsh.info/) >=4.15.0
+- [fenicsx](https://fenicsproject.org/download/) >= 0.9
+- More needed for "Domain_Exporter" but not sure if I want to keep that in the github repo
   
 
 Tested on
@@ -27,5 +28,5 @@ Tested on
 - [Numpy](http://www.numpy.org/) version 1.25.2
 - [scipy](https://www.scipy.org/) version 1.11.2
 - [matplotlib](https://matplotlib.org/) version 3.7.2
-- [gmsh] (https://gmsh.info/) >=4.15.0
-- [fenicsx] (https://fenicsproject.org/download/) >= 0.9
+- [gmsh](https://gmsh.info/) >=4.15.0
+- [fenicsx](https://fenicsproject.org/download/) >= 0.9
