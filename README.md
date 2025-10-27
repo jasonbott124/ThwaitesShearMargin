@@ -15,9 +15,9 @@
 
 The codes require the following packages to function:
 - [Python](https://www.python.org/) version 3.5+
-- [Numpy](http://www.numpy.org/) >= 1.16
-- [scipy](https://www.scipy.org/) >=1.5
-- [matplotlib](https://matplotlib.org/) >=3.3.4
+- [Numpy](http://www.numpy.org/) >= 2.3
+- [scipy](https://www.scipy.org/) >=1.16.2
+- [matplotlib](https://matplotlib.org/) >=3.9.0
 - [gmsh](https://gmsh.info/) >=4.15.0
 - [fenicsx](https://fenicsproject.org/download/) >= 0.9
 - More needed for "Domain_Exporter" but not sure if I want to keep that in the github repo
