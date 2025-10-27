@@ -1,13 +1,13 @@
 # Shear Margin: Thermally Coupled Stokes Flow
 ## Author
-- Jason Bott<sup>1,2,3</sup> (jbott@utexas.edu)
+- Jason Bott<sup>1</sup> (jbott@utexas.edu)
 
 ## Affiliations
 1 Institute for Geophysics, Jackson School of Geosciences, The University of Texas at Austin
 
 
 ## Citation
-
+(Nothing yet - motivation!)
 
 ## Getting Started
 
@@ -20,6 +20,7 @@ The codes require the following packages to function:
 - [matplotlib](https://matplotlib.org/) >=3.3.4
 - [gmsh] (https://gmsh.info/) >=4.15.0
 - [fenicsx] (https://fenicsproject.org/download/) >= 0.9
+  
 
 Tested on
 - [Python](https://www.python.org/) version 3.9.14
